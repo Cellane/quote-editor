@@ -11,9 +11,10 @@
 @use "components/btn";
 @use "components/error_message";
 @use "components/form";
-@use "components/visually_hidden";
+@use "components/navbar";
 @use "components/quote";
 @use "components/turbo_progress_bar";
+@use "components/visually_hidden";
 
 // Layouts
 @use "layouts/container";
