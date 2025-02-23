@@ -1,5 +1,6 @@
 class Quote < ApplicationRecord
   belongs_to :company
+  has_many :line_item_dates
 
   validates :name, presence: true
 
