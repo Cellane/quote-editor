@@ -18,8 +18,12 @@
 @use "components/line_item_date";
 @use "components/navbar";
 @use "components/quote";
+@use "components/quote_total";
 @use "components/turbo_progress_bar";
 @use "components/visually_hidden";
+
+// Utilities
+@use "utilities/margins";
 
 // Layouts
 @use "layouts/container";
