@@ -7,7 +7,7 @@ gem "propshaft"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 # Use redis for caching
-gem "redis", "~> 4.2"
+gem "redis", "~> 5.4"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 # Bundle and transpile JavaScript [https://github.com/rails/jsbundling-rails]
